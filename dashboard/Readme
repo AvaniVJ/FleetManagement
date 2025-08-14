@@ -1,4 +1,4 @@
-♻️ Aivan Smart Waste Management Fleet Dashboard
+♻️  Smart Waste Management Fleet Dashboard
 A full-featured fleet management dashboard for municipal Smart Waste Management projects. Built with React (TypeScript) on the frontend and Node.js + SQLite3 on the backend, this dashboard allows tracking, managing, and analyzing fleet vehicle data using real-time and historical data.
 
 📌 Features
@@ -78,7 +78,8 @@ Reads master data from: Vehicle Master.json
 Navigate to project root:
 
 bash
-cd aivan-fleet-dashboard
+cd dashboard
+cd client\client
 Install frontend dependencies:
 npm install
 Start the frontend:
