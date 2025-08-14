@@ -1,0 +1,102 @@
+♻️ Aivan Smart Waste Management Fleet Dashboard
+A full-featured fleet management dashboard for municipal Smart Waste Management projects. Built with React (TypeScript) on the frontend and Node.js + SQLite3 on the backend, this dashboard allows tracking, managing, and analyzing fleet vehicle data using real-time and historical data.
+
+📌 Features
+✅ Dashboard Overview
+Total vehicles, distance, fuel efficiency
+
+Metrics summary cards
+
+Visual analytics (charts: city/zone-wise vehicles, HH targets, fuel efficiency)
+
+🚚 Vehicle Management
+List and filter vehicles by city, ward, and parking yard
+
+View mileage, ward, zone, and parking details
+
+👨‍✈️ Driver Management
+View all driver details (name, mobile, inspector)
+
+Add, edit, and delete driver entries
+
+JSON + SQLite-based data support
+
+🅿️ Parking Yard Status
+Placeholder for future integration with GPS
+
+Currently shows yard assignments only
+
+⛽ Fuel Monitoring
+Add and track fuel entries per vehicle
+
+Automatically calculates:
+
+Distance traveled
+Fuel efficiency
+View recent entries
+Filter, paginate, and search by vehicle/date
+
+🧭 Route Optimization (Coming Soon)
+Future scope for route planning via external APIs
+
+🛰️ Live Tracking (Coming Soon)
+Placeholder for GPS-based real-time vehicle tracking
+
+📊 Analytics
+Vehicles per city/zone
+HH Target distribution
+Distance traveled by each vehicle
+Excel export support
+
+Vehicle dropdown to view specific vehicle analytics
+| Frontend            | Backend           | Database               |
+| ------------------- | ----------------- | ---------------------- |
+| React (TypeScript)  | Node.js + Express | SQLite3                |
+| Chart.js            | CORS & REST APIs  | JSON (for master data) |
+| XLSX + FileSaver.js |                   |                        |
+🚀 Getting Started
+Prerequisites
+Node.js (v16+)
+
+npm / yarn
+
+🔌 Backend Setup (Node.js + SQLite)
+Navigate to backend/:
+
+bash
+cd backend
+Install dependencies:npm install
+Start the backend server:
+node index.js
+The server runs at: http://localhost:5000
+
+SQLite DB auto-created: fleet.db
+
+Reads master data from: Vehicle Master.json
+
+💻 Frontend Setup (React)
+Navigate to project root:
+
+bash
+cd aivan-fleet-dashboard
+Install frontend dependencies:
+npm install
+Start the frontend:
+npm start
+Opens at: http://localhost:3000
+
+📂 Sample Data
+Vehicle Master.json: vehicle and driver master records
+
+📤 Export Features
+Click Export to Excel on Analytics section
+Generates .xlsx file with:
+Vehicles per zone/city
+HH targets
+Distance traveled per vehicle
+
+🛠️ Future Improvements
+GPS integration for real-time tracking
+Map-based route planning
+Driver login & authentication
+Notifications for fuel refills / low efficiency

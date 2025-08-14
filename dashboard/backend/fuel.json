@@ -1,0 +1,551 @@
+[
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-01",
+    "odometerStart": 10000,
+    "odometerEnd": 10063,
+    "distanceTraveled": 63,
+    "fuelAmount": 5,
+    "fuelEfficiency": 3.15
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-02",
+    "odometerStart": 10063,
+    "odometerEnd": 10121,
+    "distanceTraveled": 58,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.9
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-03",
+    "odometerStart": 10121,
+    "odometerEnd": 10182,
+    "distanceTraveled": 61,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.05
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-04",
+    "odometerStart": 10182,
+    "odometerEnd": 10243,
+    "distanceTraveled": 61,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.05
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-05",
+    "odometerStart": 10243,
+    "odometerEnd": 10290,
+    "distanceTraveled": 47,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.35
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-06",
+    "odometerStart": 10290,
+    "odometerEnd": 10355,
+    "distanceTraveled": 65,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.25
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-07",
+    "odometerStart": 10355,
+    "odometerEnd": 10414,
+    "distanceTraveled": 59,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.95
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-08",
+    "odometerStart": 10414,
+    "odometerEnd": 10468,
+    "distanceTraveled": 54,
+    "fuelAmount": 18,
+    "fuelEfficiency": 3.0
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-09",
+    "odometerStart": 10468,
+    "odometerEnd": 10528,
+    "distanceTraveled": 60,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.33
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-10",
+    "odometerStart": 10528,
+    "odometerEnd": 10578,
+    "distanceTraveled": 50,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.78
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-11",
+    "odometerStart": 10578,
+    "odometerEnd": 10627,
+    "distanceTraveled": 49,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.72
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-12",
+    "odometerStart": 10627,
+    "odometerEnd": 10686,
+    "distanceTraveled": 59,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.28
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-13",
+    "odometerStart": 10686,
+    "odometerEnd": 10731,
+    "distanceTraveled": 45,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.5
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-14",
+    "odometerStart": 10731,
+    "odometerEnd": 10782,
+    "distanceTraveled": 51,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.83
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-15",
+    "odometerStart": 10782,
+    "odometerEnd": 10836,
+    "distanceTraveled": 54,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.0
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-16",
+    "odometerStart": 10836,
+    "odometerEnd": 10886,
+    "distanceTraveled": 50,
+    "fuelAmount": 22,
+    "fuelEfficiency": 2.27
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-17",
+    "odometerStart": 10886,
+    "odometerEnd": 10938,
+    "distanceTraveled": 52,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.36
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-18",
+    "odometerStart": 10938,
+    "odometerEnd": 10987,
+    "distanceTraveled": 49,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.23
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-19",
+    "odometerStart": 10987,
+    "odometerEnd": 11040,
+    "distanceTraveled": 53,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.41
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-20",
+    "odometerStart": 11040,
+    "odometerEnd": 11086,
+    "distanceTraveled": 46,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.09
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-21",
+    "odometerStart": 11086,
+    "odometerEnd": 11138,
+    "distanceTraveled": 52,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.36
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-22",
+    "odometerStart": 11138,
+    "odometerEnd": 11196,
+    "distanceTraveled": 58,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.64
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-23",
+    "odometerStart": 11196,
+    "odometerEnd": 11260,
+    "distanceTraveled": 64,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.91
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-24",
+    "odometerStart": 11260,
+    "odometerEnd": 11314,
+    "distanceTraveled": 54,
+    "fuelAmount": 25,
+    "fuelEfficiency": 2.16
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-25",
+    "odometerStart": 11314,
+    "odometerEnd": 11376,
+    "distanceTraveled": 62,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.48
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-26",
+    "odometerStart": 11376,
+    "odometerEnd": 11429,
+    "distanceTraveled": 53,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.12
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-27",
+    "odometerStart": 11429,
+    "odometerEnd": 11479,
+    "distanceTraveled": 50,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.0
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-28",
+    "odometerStart": 11479,
+    "odometerEnd": 11541,
+    "distanceTraveled": 62,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.48
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-29",
+    "odometerStart": 11541,
+    "odometerEnd": 11596,
+    "distanceTraveled": 55,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.2
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-30",
+    "odometerStart": 11596,
+    "odometerEnd": 11656,
+    "distanceTraveled": 60,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.4
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-05-31",
+    "odometerStart": 11656,
+    "odometerEnd": 11706,
+    "distanceTraveled": 50,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.0
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-01",
+    "odometerStart": 11706,
+    "odometerEnd": 11760,
+    "distanceTraveled": 54,
+    "fuelAmount": 21,
+    "fuelEfficiency": 2.57
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-02",
+    "odometerStart": 11760,
+    "odometerEnd": 11822,
+    "distanceTraveled": 62,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.95
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-03",
+    "odometerStart": 11822,
+    "odometerEnd": 11869,
+    "distanceTraveled": 47,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.24
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-04",
+    "odometerStart": 11869,
+    "odometerEnd": 11923,
+    "distanceTraveled": 54,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.57
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-05",
+    "odometerStart": 11923,
+    "odometerEnd": 11988,
+    "distanceTraveled": 65,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.1
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-06",
+    "odometerStart": 11988,
+    "odometerEnd": 12050,
+    "distanceTraveled": 62,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.95
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-07",
+    "odometerStart": 12050,
+    "odometerEnd": 12108,
+    "distanceTraveled": 58,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.76
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-08",
+    "odometerStart": 12108,
+    "odometerEnd": 12156,
+    "distanceTraveled": 48,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.29
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-09",
+    "odometerStart": 12156,
+    "odometerEnd": 12205,
+    "distanceTraveled": 49,
+    "fuelAmount": 20,
+    "fuelEfficiency": 2.45
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-10",
+    "odometerStart": 12205,
+    "odometerEnd": 12255,
+    "distanceTraveled": 50,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.5
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-11",
+    "odometerStart": 12255,
+    "odometerEnd": 12309,
+    "distanceTraveled": 54,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.7
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-12",
+    "odometerStart": 12309,
+    "odometerEnd": 12366,
+    "distanceTraveled": 57,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.85
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-13",
+    "odometerStart": 12366,
+    "odometerEnd": 12423,
+    "distanceTraveled": 57,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.85
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-14",
+    "odometerStart": 12423,
+    "odometerEnd": 12483,
+    "distanceTraveled": 60,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.0
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-15",
+    "odometerStart": 12483,
+    "odometerEnd": 12547,
+    "distanceTraveled": 64,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.2
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-16",
+    "odometerStart": 12547,
+    "odometerEnd": 12602,
+    "distanceTraveled": 55,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.75
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-17",
+    "odometerStart": 12602,
+    "odometerEnd": 12658,
+    "distanceTraveled": 56,
+    "fuelAmount": 23,
+    "fuelEfficiency": 2.43
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-18",
+    "odometerStart": 12658,
+    "odometerEnd": 12710,
+    "distanceTraveled": 52,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.26
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-19",
+    "odometerStart": 12710,
+    "odometerEnd": 12756,
+    "distanceTraveled": 46,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.0
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-20",
+    "odometerStart": 12756,
+    "odometerEnd": 12816,
+    "distanceTraveled": 60,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.61
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-21",
+    "odometerStart": 12816,
+    "odometerEnd": 12864,
+    "distanceTraveled": 48,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.09
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-22",
+    "odometerStart": 12864,
+    "odometerEnd": 12919,
+    "distanceTraveled": 55,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.39
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-23",
+    "odometerStart": 12919,
+    "odometerEnd": 12974,
+    "distanceTraveled": 55,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.39
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-24",
+    "odometerStart": 12974,
+    "odometerEnd": 13036,
+    "distanceTraveled": 62,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.7
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-25",
+    "odometerStart": 13036,
+    "odometerEnd": 13092,
+    "distanceTraveled": 56,
+    "fuelAmount": 19,
+    "fuelEfficiency": 2.95
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-26",
+    "odometerStart": 13092,
+    "odometerEnd": 13151,
+    "distanceTraveled": 59,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.11
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-27",
+    "odometerStart": 13151,
+    "odometerEnd": 13201,
+    "distanceTraveled": 50,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.63
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-28",
+    "odometerStart": 13201,
+    "odometerEnd": 13250,
+    "distanceTraveled": 49,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.58
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-29",
+    "odometerStart": 13250,
+    "odometerEnd": 13299,
+    "distanceTraveled": 49,
+    "fuelAmount": 0,
+    "fuelEfficiency": 2.58
+  },
+  {
+    "vehicleNo": "W15 KA25AB0542",
+    "date": "2024-06-30",
+    "odometerStart": 13299,
+    "odometerEnd": 13362,
+    "distanceTraveled": 63,
+    "fuelAmount": 0,
+    "fuelEfficiency": 3.32
+  }
+]
