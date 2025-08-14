@@ -1,0 +1,40 @@
+.sidebar {
+  width: 200px;
+  background-color: #f4f4f4;
+  padding: 20px;
+  height: 100vh;
+  position: fixed;
+}
+
+.sidebar-header {
+  margin-bottom: 20px;
+}
+
+.sidebar-title {
+  font-size: 1.5em;
+}
+
+.sidebar-nav {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  text-align: left;
+  font-size: 1em;
+}
+
+.sidebar-item.active {
+  background-color: #ddd;
+  font-weight: bold;
+}
+
+.sidebar-icon {
+  margin-right: 10px;
+}

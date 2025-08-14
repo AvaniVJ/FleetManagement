@@ -1,0 +1,61 @@
+.fuel-monitoring {
+  padding: 20px;
+}
+
+.fuel-monitoring h2 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.fuel-monitoring form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
+  margin-bottom: 20px;
+}
+
+.fuel-monitoring select,
+.fuel-monitoring input {
+  padding: 8px;
+  font-size: 1em;
+}
+
+.fuel-monitoring input[readonly] {
+  background-color: #f4f4f4;
+  cursor: not-allowed;
+}
+
+.fuel-monitoring button {
+  padding: 10px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.fuel-monitoring button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.fuel-monitoring h3 {
+  font-size: 1.2em;
+  margin-top: 20px;
+}
+
+.fuel-monitoring table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.fuel-monitoring th,
+.fuel-monitoring td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.fuel-monitoring th {
+  background-color: #f4f4f4;
+}

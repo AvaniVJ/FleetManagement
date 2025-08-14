@@ -1,0 +1,77 @@
+.charts {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  padding: 1rem;
+}
+
+.charts-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.chart-card {
+  flex: 1 1 300px;
+  min-width: 300px;
+  max-width: 400px;
+  height: 370px;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.chart-card h3 {
+  font-size: 1rem;
+  color: #1a2a44;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+/* Keep Pie chart inside box */
+.pie-card canvas {
+  max-height: 260px !important;
+  max-width: 100% !important;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .chart-card {
+    flex: 1 1 100%;
+  }
+}
+
+.charts-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.export-button {
+  background-color: #2563eb;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.export-button:hover {
+  background-color: #1e4bd1;
+}
+
+.vehicle-select {
+  margin-left: 10px;
+  padding: 4px 8px;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}

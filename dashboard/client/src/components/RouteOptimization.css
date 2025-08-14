@@ -1,0 +1,18 @@
+.route-optimization {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem;
+}
+
+.route-optimization h2 {
+  font-size: 1.2rem;
+  color: #1a2a44;
+  margin: 0 0 1rem;
+}
+
+.route-optimization p {
+  font-size: 1rem;
+  color: #4b5e7a;
+  margin: 0;
+}
